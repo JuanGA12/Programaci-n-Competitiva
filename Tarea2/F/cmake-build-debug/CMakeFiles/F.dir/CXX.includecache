@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/juangalvezc/Desktop/7mo Ciclo/Programacion Competitiva/Tarea2/F/main.cpp
+iostream
+-
+forward_list
+-
+numeric
+-
+
