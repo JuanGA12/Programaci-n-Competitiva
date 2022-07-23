@@ -1,2 +1,2 @@
-# Programaci-n-Competitiva
+# Programación-Competitiva
 Programación Competitiva (CS3101)
